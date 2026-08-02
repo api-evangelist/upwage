@@ -1,0 +1,42 @@
+# Upwage
+
+> Upwage is an AI interview platform that helps companies hire faster, fairer, and with lower turnover. Its AI interviewer screens candidates consistently and without bias, giving every applicant a fair shot while freeing recruiters from manual screening. Used by employers across retail, healthcare, and high-volume hiring with proven ROI.
+
+## Key pages
+- [Home — AI Interviews with Proven ROI](https://www.upwage.com/): What Upwage does and the outcomes it drives — fairer hiring, better performance, lower turnover.
+- [About Upwage](https://www.upwage.com/about): The company, mission, and team building AI interviews that reduce bias, turnover, and time-to-hire.
+- [Trust & Security](https://www.upwage.com/trust): How Upwage keeps candidate data secure and AI hiring fair and compliant — bias audits, privacy, and responsible-AI practices.
+- [Book a Demo](https://www.upwage.com/demo): See the AI interviewer in action and how teams hire faster and fairer.
+- [Blog](https://www.upwage.com/blog): Guides on AI interviews, hiring velocity, and reducing bias and turnover for talent and HR leaders.
+- [AI for Good (book by founder Diana Tsai)](https://www.upwage.com/ai-for-good-4): A game plan for HR and talent leaders on using AI to unlock human potential rather than replace it.
+
+## Case studies
+- [GoPuff](https://www.upwage.com/case-studies/gopuff): High-volume hiring results with Upwage's AI interviewer.
+- [Carenet Health](https://www.upwage.com/case-studies/carenet-health): AI interviews in healthcare recruiting.
+- [MasterCorp](https://www.upwage.com/case-studies/mastercorp): Faster, fairer hiring at scale.
+- [Easterseals](https://www.upwage.com/case-studies/easterseals): Mission-driven hiring with AI.
+- [REI](https://www.upwage.com/case-studies/rei): Retail hiring outcomes with Upwage.
+
+## Blog posts
+- [How AI Recruitment Tools Unlock End-to-End Hiring Efficiency](https://www.upwage.com/blog/how-ai-recruitment-tools-unlock-end-to-end-hiring-efficiency)
+- [Why 2025 Is the Critical Year to Adopt AI Hiring Software](https://www.upwage.com/blog/why-2025-is-the-critical-year-to-adopt-ai-hiring-software)
+- [Speed vs. Quality: Why AI-Powered Matching Solves Both](https://www.upwage.com/blog/speed-vs-quality-why-ai-powered-matching-solves-both)
+- [How AI Screening Solves Candidate Overload for Recruiters](https://www.upwage.com/blog/how-ai-screening-solves-candidate-overload-for-recruiters)
+- [A Data-Driven Approach to Hiring Using AI Confidence Scores](https://www.upwage.com/blog/a-data-driven-approach-to-hiring-using-ai-confidence-scores)
+- [How AI Transforms Early Candidate Evaluation](https://www.upwage.com/blog/how-ai-transforms-early-candidate-evaluation)
+- [Which AI Recruiting Features Actually Transform Hiring Outcomes](https://www.upwage.com/blog/which-ai-recruiting-features-actually-transform-hiring-outcomes)
+- [Hiring Success Metrics That Outshine Resume Keywords](https://www.upwage.com/blog/hiring-success-metrics-that-outshine-resume-keywords)
+- [How Predictive Analytics Drive Better Hiring Outcomes](https://www.upwage.com/blog/how-predictive-analytics-drive-better-hiring-outcomes)
+- [Unlocking Hidden Talent Pools with Advanced AI Recruiting](https://www.upwage.com/blog/unlocking-hidden-talent-pools-with-advanced-ai-recruiting)
+- [Personalized Candidate Experiences That Drive Better Hiring](https://www.upwage.com/blog/personalized-candidate-experiences-that-drive-better-hiring)
+- [Rethink High-Volume Hiring with AI](https://www.upwage.com/blog/rethink-high-volume-hiring-with-ai)
+- [AI-Powered Job Descriptions: Writing to Attract and Hire Top Talent](https://www.upwage.com/blog/ai-powered-job-descriptions-writing-to-attract-and-hire-top-talent)
+- [How TA Leaders Are Reducing Turnover in 2025](https://www.upwage.com/blog/how-ta-leaders-are-reducing-turnover-in-2025)
+- [Hiring with Integrity: How Transparent Tools Build Trust Across the Funnel](https://www.upwage.com/blog/hiring-with-integrity-how-transparent-tools-build-trust-across-the-funnel)
+- [Stop Guessing, Start Retaining: Talent Acquisition Tools for Predictive Hiring](https://www.upwage.com/blog/stop-guessing-start-retaining-talent-acquisition-tools-for-predictive-hiring)
+- [From Interviews to Insights: Recruiting Tools That Surface What Actually Works](https://www.upwage.com/blog/from-interviews-to-insights-recruiting-tools-that-surface-what-actually-works)
+- [Automate the Interview, Not the Connection](https://www.upwage.com/blog/automate-the-interview-not-the-connection-smarter-hiring-workflows-from-start-to-finish)
+- [AI Ethics and Transparency in Recruitment](https://www.upwage.com/blog/ai-ethics-and-transparency-in-recruitment-the-best-ai-recruiting-software-for-trust-and-compliance)
+- [From Chaos to Clarity: AI's Role in Resume Screening and Shortlisting](https://www.upwage.com/blog/from-chaos-to-clarity-ais-role-in-resume-screening-and-shortlisting)
+- [How to Use AI in Recruiting: The TA Leader's 2025 Playbook](https://www.upwage.com/blog/how-to-use-ai-in-recruiting-the-ta-leaders-2025-playbook)
+- [A Letter from Upwage Founder Diana Tsai](https://www.upwage.com/blog/a-letter-from-upwage-founder-diana-tsai)

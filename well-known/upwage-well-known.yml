@@ -1,0 +1,20 @@
+generated: '2026-07-21'
+method: searched
+host: https://www.upwage.com
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+notes: >-
+  No /.well-known/ discovery documents are published on www.upwage.com
+  (probed 2026-07-21; all paths returned 404). api.upwage.com resolves over
+  HTTPS but returns 404 at the root; docs.upwage.com and developers.upwage.com
+  do not resolve. The site does publish /llms.txt (200) — captured verbatim at
+  llms/upwage-llms.txt.

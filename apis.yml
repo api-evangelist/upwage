@@ -1,7 +1,25 @@
 aid: upwage
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/upwage.png
 name: Upwage
-description: Upwage is a company surfaced as a portfolio company of bloomberg-beta and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Upwage is an AI interview platform that helps employers hire faster and
+  more fairly with lower turnover. Its emotionally intelligent AI interviewer conducts
+  24/7 multilingual candidate screening, scoring competencies consistently to reduce
+  bias in high-volume hiring across retail, healthcare, logistics, and staffing, with
+  ATS integrations including Ashby, Greenhouse, iCIMS, Lever, SmartRecruiters, and
+  Workday. Founded by Diana Tsai and Greg Call and backed by Bloomberg Beta, Upwage
+  publishes a SOC 2 Type 2 trust center with third-party bias audits, but no public
+  developer API surface yet.
 url: https://raw.githubusercontent.com/api-evangelist/upwage/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +27,22 @@ x-backed-by:
 - bloomberg-beta
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Hiring
+- Recruiting
+- Artificial Intelligence
+- Human Resources
+- Talent Acquisition
+- Interviews
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +50,21 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/upwage-domain-security.yml
 - type: Website
   url: https://www.upwage.com/
+- type: Blog
+  url: https://www.upwage.com/blog
+- type: TrustCenter
+  url: https://www.upwage.com/trust
+- type: Compliance
+  url: https://www.upwage.com/trust
+- type: TermsOfService
+  url: https://www.upwage.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.upwage.com/privacy-policy
+- type: Login
+  url: https://account.upwage.com/
+- type: LLMsTxt
+  url: llms/upwage-llms.txt

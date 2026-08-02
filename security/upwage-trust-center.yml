@@ -1,0 +1,42 @@
+generated: '2026-07-21'
+method: searched
+probe: false
+source: https://www.upwage.com/trust
+url: https://www.upwage.com/trust
+description: >-
+  Upwage's Trust & Security page covers how candidate data is secured and how
+  its AI hiring is kept fair and compliant. It names a SOC 2 Type 2 attestation
+  (valid through March 13, 2026), GDPR and CCPA data-protection compliance,
+  EEOC/OFCCP employment-regulation alignment, and compliance with automated
+  employment decision tool laws including NYC Local Law 144, Colorado SB 24-205,
+  Utah SB 149, and Illinois HB 3773. Security practices include bi-annual
+  third-party penetration testing, annual third-party bias audits (Data Action
+  Partners) plus quarterly internal bias audits, data encryption and access
+  controls, candidate data anonymization, and continuous compliance monitoring
+  via Drata. A live controls dashboard is hosted on Delve.
+certifications:
+  - {name: SOC 2 Type 2, note: Valid through March 13, 2026.}
+  - {name: GDPR, scope: data protection}
+  - {name: CCPA, scope: data protection}
+regulatory_alignment:
+  - {name: EEOC, scope: employment regulation}
+  - {name: OFCCP, scope: employment regulation}
+  - {name: NYC Local Law 144, scope: automated employment decision tools}
+  - {name: Colorado SB 24-205, scope: AI Act}
+  - {name: Utah SB 149, scope: AI transparency}
+  - {name: Illinois HB 3773, scope: AI disclosure in hiring}
+practices:
+  - Bi-annual third-party penetration testing
+  - Annual third-party bias audits by Data Action Partners
+  - Quarterly internal bias audits
+  - Data encryption and access controls
+  - Candidate data anonymization
+  - Continuous compliance monitoring via Drata
+trust_portal: https://trust.platform.delve.co/upwage#controls
+reports:
+  - AI Governance Executive Summary
+  - SOC 2 Type 2 Report
+  - Third-party bias audit report (Data Action Partners)
+  - Internal bias audit reports
+evidence:
+  - {source: https://www.upwage.com/trust, keywords: [soc 2 type 2, gdpr, ccpa, nyc local law 144, bias audit, penetration testing, drata]}
