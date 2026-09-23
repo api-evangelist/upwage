@@ -1,7 +1,12 @@
 generated: '2026-07-21'
 method: searched
 host: https://www.upwage.com
-documents:
+notes: No /.well-known/ discovery documents are published on www.upwage.com (probed 2026-07-21; all paths
+  returned 404). api.upwage.com resolves over HTTPS but returns 404 at the root; docs.upwage.com and developers.upwage.com
+  do not resolve. The site does publish /llms.txt (200) — captured verbatim at llms/upwage-llms.txt.
+hosts:
+- host: https://www.upwage.com
+  documents:
   - path: /.well-known/security.txt
     status: 404
   - path: /.well-known/openid-configuration
@@ -12,9 +17,8 @@ documents:
     status: 404
   - path: /.well-known/ai-plugin.json
     status: 404
-notes: >-
-  No /.well-known/ discovery documents are published on www.upwage.com
-  (probed 2026-07-21; all paths returned 404). api.upwage.com resolves over
-  HTTPS but returns 404 at the root; docs.upwage.com and developers.upwage.com
-  do not resolve. The site does publish /llms.txt (200) — captured verbatim at
-  llms/upwage-llms.txt.
+x-shape-fix:
+  converted: '2026-08-20'
+  from: documents
+  note: Rewritten into hosts[] -> documents[], the only shape well_known_docs() in score.rb reads. A served
+    .well-known surface recorded in any other shape scores as absent.
